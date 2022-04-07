@@ -12,3 +12,4 @@ Para ver esse dashboard localmente, use o seguinte código:
 panel serve dashboard_python.ipynb
 ```
 
+![dashboard_python](https://user-images.githubusercontent.com/52143378/162336011-d5607bb2-9a68-4fb9-90ab-c91e2920d595.jpg)
