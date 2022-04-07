@@ -1,6 +1,6 @@
-# Dashboard com Python
+### Dashboard com Python
 
-Esse dashboard mostra emissão de CO2 ao longo de 1750 a 2020 por continentes e mundo. Ele foi construido com as biblotecas panel e hvplot do Python. 
+Esse dashboard mostra a emissão de CO2 ao longo de 1750 a 2020 por continentes e mundo. Ele foi construido com as biblotecas panel e hvplot do Python. 
 
 Todo o visual foi baseado no vídeo https://www.youtube.com/watch?v=uhxiXOTKzfs. 
 
